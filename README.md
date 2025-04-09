@@ -1,0 +1,1 @@
+A simple calculator for the shear and moment diagrams of a simply-supported beam, plus the deflection and angle of rotation at distance X from the left support. Inputs include force values for 3 point loads, distances from the left support for each point load, distance X for the deflection calculation, and the modulus of elasticity and moment of inertia for the beam. 
